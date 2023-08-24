@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Burguer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img src="Hamburguer.jpg" alt="Hamburguer.jpg">
+        <p>Hmm, está sentindo este cheirinho? Acho que tem hambúrguer na área! Sejam eles cheios de carne ou veganos,
+        com cebola ou sem, com muito ou pouco queijo, tradicional ou inovador, essa iguaria tem um espacinho
+        especial reservado no coração de cada um de nós.
+         Engana-se quem acha que essa receitinha mágica da felicidade é algo recente. 
+         O hábito de moer carne está presente na vida do ser humano desde a existência das tribos nômades da Mongólia.
+        </p>
+    <h2>Meia-noite Hamburguer</h2>
+    <ul>
+        <li>Temos:</li>
+        <li>Hamburguers Veganos</li>
+        <li>Hamburguers Artesanais</li>
+        <li>Porções</li>
+        <li>Bebidas</li>
+        <li>Sobremesas</li>
+    </ul>
+</body>
+</html>
